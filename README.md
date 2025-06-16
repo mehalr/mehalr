@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mehal Raje</h1>
-<h3 align="center">Student at TCET, Mumbai🌟.</h3>
 
 ---
 
